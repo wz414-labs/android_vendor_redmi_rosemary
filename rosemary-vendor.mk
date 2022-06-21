@@ -37,7 +37,6 @@ PRODUCT_COPY_FILES += \
     vendor/redmi/rosemary/proprietary/lib/libvt_avsync.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libvt_avsync.so
 
 PRODUCT_PACKAGES += \
-    EngineerMode \
     ImsService \
     mediatek-common \
     mediatek-framework \
